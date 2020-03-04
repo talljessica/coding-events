@@ -1,8 +1,6 @@
 package org.launchcode.codingevents.models;
 
-/**
- * Created by Chris Bay
- */
+
 public enum EventType {
 
     CONFERENCE("Conference"),
